@@ -1,0 +1,14 @@
+C:\Users\Felipe Jablonski\Desktop\BackEnd\atividades2\atv16\atv16\bin\Debug\net8.0\atv16.exe
+C:\Users\Felipe Jablonski\Desktop\BackEnd\atividades2\atv16\atv16\bin\Debug\net8.0\atv16.deps.json
+C:\Users\Felipe Jablonski\Desktop\BackEnd\atividades2\atv16\atv16\bin\Debug\net8.0\atv16.runtimeconfig.json
+C:\Users\Felipe Jablonski\Desktop\BackEnd\atividades2\atv16\atv16\bin\Debug\net8.0\atv16.dll
+C:\Users\Felipe Jablonski\Desktop\BackEnd\atividades2\atv16\atv16\bin\Debug\net8.0\atv16.pdb
+C:\Users\Felipe Jablonski\Desktop\BackEnd\atividades2\atv16\atv16\obj\Debug\net8.0\atv16.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Felipe Jablonski\Desktop\BackEnd\atividades2\atv16\atv16\obj\Debug\net8.0\atv16.AssemblyInfoInputs.cache
+C:\Users\Felipe Jablonski\Desktop\BackEnd\atividades2\atv16\atv16\obj\Debug\net8.0\atv16.AssemblyInfo.cs
+C:\Users\Felipe Jablonski\Desktop\BackEnd\atividades2\atv16\atv16\obj\Debug\net8.0\atv16.csproj.CoreCompileInputs.cache
+C:\Users\Felipe Jablonski\Desktop\BackEnd\atividades2\atv16\atv16\obj\Debug\net8.0\atv16.dll
+C:\Users\Felipe Jablonski\Desktop\BackEnd\atividades2\atv16\atv16\obj\Debug\net8.0\refint\atv16.dll
+C:\Users\Felipe Jablonski\Desktop\BackEnd\atividades2\atv16\atv16\obj\Debug\net8.0\atv16.pdb
+C:\Users\Felipe Jablonski\Desktop\BackEnd\atividades2\atv16\atv16\obj\Debug\net8.0\atv16.genruntimeconfig.cache
+C:\Users\Felipe Jablonski\Desktop\BackEnd\atividades2\atv16\atv16\obj\Debug\net8.0\ref\atv16.dll

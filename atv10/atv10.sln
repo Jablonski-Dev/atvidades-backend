@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34330.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "atv10", "atv10\atv10.csproj", "{B1179A52-F7F6-4099-9FAE-EC55EB1D08B3}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "11-Switch", "..\..\introducaoC#\11-Switch\11-Switch\11-Switch.csproj", "{EFE66B8D-91ED-4229-B122-C83A44222BE0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B1179A52-F7F6-4099-9FAE-EC55EB1D08B3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B1179A52-F7F6-4099-9FAE-EC55EB1D08B3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B1179A52-F7F6-4099-9FAE-EC55EB1D08B3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B1179A52-F7F6-4099-9FAE-EC55EB1D08B3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EFE66B8D-91ED-4229-B122-C83A44222BE0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EFE66B8D-91ED-4229-B122-C83A44222BE0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EFE66B8D-91ED-4229-B122-C83A44222BE0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EFE66B8D-91ED-4229-B122-C83A44222BE0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1B20F823-E215-4933-81F4-487161CA9581}
+	EndGlobalSection
+EndGlobal
